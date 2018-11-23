@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/4851/how-implement-event-listener#latest
+https://docs.katalon.com/katalon-studio/tutorials/using_selenium_webdriver_katalon_studio.html#driverfactory
+https://www.seleniumeasy.com/selenium-tutorials/webdriver-event-listener-example</description>
+   <name>KatalonDiscussion4851</name>
+   <tag></tag>
+   <UUID>4db51805-5d9b-4653-96eb-211db2baf430</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>GENERIC</type>
+</Project>
